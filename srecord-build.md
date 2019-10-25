@@ -1,6 +1,6 @@
 # SRecord Build Instructions
 
-Run the following commands to download, build, and install SRecord 1.64 on Ubuntu 18.04
+Run the following commands to download, build, and install SRecord 1.64 on Ubuntu 18.04 LTS:
 
     sudo apt install build-essential libtool-bin ghostscript libgcrypt20-dev libboost-dev
     mkdir sources
