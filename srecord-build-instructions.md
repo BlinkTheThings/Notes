@@ -13,3 +13,5 @@ Run the following commands to download, build, and install SRecord 1.64 on Ubunt
     make sure
     sudo make install
     sudo ldconfig
+---
+#linux #ubuntu #build
